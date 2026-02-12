@@ -3,10 +3,10 @@ import "./App.css";
 
 const phrases = [
   "No",
-  "Are you sure?",
-  "Say yes please",
-  "Click mo na yang yes dali",
-  "Pookie plz",
+  "Ayaw(Are you sure?)",
+  "Nope(Say yes please)",
+  "AYAW(Click mo na yang yes dali)",
+  "NO!(Pookie plz)",
 ];
 
 /* 🔥 ADD YOUR NO REACTION GIFS HERE */
